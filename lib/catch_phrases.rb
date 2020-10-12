@@ -12,3 +12,6 @@ def link
   danger_message = "It's Dangerous To Go Alone! Take This."
   puts danger_message
 end 
+
+def all_phrases 
+  
